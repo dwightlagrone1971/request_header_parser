@@ -1,0 +1,14 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Miscroservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dwight LaGrone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
